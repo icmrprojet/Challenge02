@@ -1,4 +1,4 @@
-<b>Position BG</b> (https://fayechartre6.000webhostapp.com/grid/index.html)
+<b>Planetes</b> (https://fayechartre6.000webhostapp.com/grid/index.html)
 
 # Challenge02  
 
