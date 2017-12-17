@@ -8,11 +8,9 @@
 * **Methode des Row et Col
   * <div class="col-6 "> avec un total de col toujours égal (ici 12)
   * <div class="col-6 txt-center pal"> associé à des class pré-établies : 
-      pal = padding all light
-      mrn = margin right none
-     .col-push-1{margin-left:8.333333%;} à annuler via la média query :
-         @media screen and (max-width:779px){
-         .col-push-1{margin-left:0;}
-         }
+  *pal = padding all light
+  *mrn = margin right none
+  *.col-push-1{margin-left:8.333333%;} à annuler via la média query :
+  *@media screen and (max-width:779px){.col-push-1{margin-left:0;}}
 
       
